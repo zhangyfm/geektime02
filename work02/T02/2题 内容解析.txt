@@ -1,0 +1,6 @@
+2题解析
+实现
+在geektime.spring.springbucks.waiter.controller.CoffeeController中改造
+getJSONById()
+getXMLByName()
+方法 返回指定的json和xml格式

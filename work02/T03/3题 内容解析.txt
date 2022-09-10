@@ -1,0 +1,6 @@
+3题：
+使用restTemplate 访问接口，
+geektime.spring.springbucks.customer.CustomerRunner 类中调用接口实现
+		getJSONById();
+        getXMLByName();
+		定义CoffeeByXML接收XML格式COffeel类型
